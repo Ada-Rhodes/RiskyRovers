@@ -5,8 +5,6 @@ Risky rover was developed in part thanks to funding from the a NASA Nebraska Spa
 
 If you have questions or issues, please contact Dr. Ada-Rhodes Wish at ada-rhodesshort@unomaha.edu
 
-# Licensing 
-Risky Rovers is available under the CC BY 4.0 license. It should be attributed as "*Risky Rovers*, by Wish et al, GitHub, CC BY 4.0"
 # Credits
 Primary Investigator/Publisher: 
 - Dr. Ada-Rhodes Wish
